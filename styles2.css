@@ -1,0 +1,21 @@
+ div{
+     padding: 20px;
+     text-align: center;
+     background-color: burlywood;
+     width: 500px;
+     height: 400px;
+    }
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+th{
+    background-color: lightblue;
+}
+
+th, td{
+    border: 1px solid green;
+    padding: 5px;
+    text-align: center;
+}
